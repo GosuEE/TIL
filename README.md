@@ -11,3 +11,7 @@
 [ 2022.11.11 bind(), SSR & CSR ](https://github.com/GosuEE/TIL/blob/master/2022_11_11.md)
 
 [ 2022.11.12 코딩테스트 연습 ](https://github.com/GosuEE/TIL/blob/master/2022_11_12.md)
+
+## 미니 프로젝트
+
+[ 2022.11.15 미니프로젝트 ](https://github.com/GosuEE/TIL/blob/master/2022_11_15.md)
