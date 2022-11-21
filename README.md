@@ -12,6 +12,12 @@
 
 [ 2022.11.12 코딩테스트 연습 ](https://github.com/GosuEE/TIL/blob/master/2022_11_12.md)
 
+[ 2022.11.18 js과제 ](https://github.com/GosuEE/TIL/blob/master/js과제.md)
+
 ## 미니 프로젝트
 
 [ 2022.11.15 미니프로젝트 ](https://github.com/GosuEE/TIL/blob/master/2022_11_15.md)
+
+# WIL
+
+[ 2022.11.14~2022.11.20 WIL ](https://github.com/GosuEE/TIL/blob/master/2022_11_14~2022_11_20_WIL.md)
