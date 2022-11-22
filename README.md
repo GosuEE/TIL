@@ -14,6 +14,8 @@
 
 [ 2022.11.18 js과제 ](https://github.com/GosuEE/TIL/blob/master/js과제.md)
 
+[ 2022.11.21 코딩테스트: 사칙연산 ](https://github.com/GosuEE/TIL/blob/master/2022_11_21.md)
+
 ## 미니 프로젝트
 
 [ 2022.11.15 미니프로젝트 ](https://github.com/GosuEE/TIL/blob/master/2022_11_15.md)
