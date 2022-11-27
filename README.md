@@ -16,6 +16,8 @@
 
 [ 2022.11.21 코딩테스트: 사칙연산 ](https://github.com/GosuEE/TIL/blob/master/2022_11_21.md)
 
+[ 2022.11.27 혼자 공부하는 자바스크립트 7-2: 이벤트 활용 ](https://github.com/GosuEE/TIL/blob/master/2022_11_27.md)
+
 ## 미니 프로젝트
 
 [ 2022.11.15 미니프로젝트 ](https://github.com/GosuEE/TIL/blob/master/2022_11_15.md)
