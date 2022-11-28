@@ -31,3 +31,5 @@
 # WIL
 
 [ 2022.11.14~2022.11.20 WIL ](https://github.com/GosuEE/TIL/blob/master/2022_11_14~2022_11_20_WIL.md)
+
+[ 2022.11.21~2022.11.27 WIL ](https://github.com/GosuEE/TIL/blob/master/2022_11_21~2022_11_27_WIL.md)
