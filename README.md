@@ -28,7 +28,11 @@
 
 [ 2022.11.26 React 기초 ](https://github.com/GosuEE/TIL/blob/master/2022_11_26.md)
 
-# WIL
+## CSS
+
+[ 2022.11.29 React 기초 ](https://github.com/GosuEE/TIL/blob/master/2022_11_29.md)
+
+## WIL
 
 [ 2022.11.14~2022.11.20 WIL ](https://github.com/GosuEE/TIL/blob/master/2022_11_14~2022_11_20_WIL.md)
 
