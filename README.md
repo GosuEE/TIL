@@ -30,7 +30,7 @@
 
 ## CSS
 
-[ 2022.11.29 React 기초 ](https://github.com/GosuEE/TIL/blob/master/2022_11_29.md)
+[ 2022.11.29 CSS 기초 ](https://github.com/GosuEE/TIL/blob/master/2022_11_29.md)
 
 ## WIL
 
