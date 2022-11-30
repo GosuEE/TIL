@@ -28,7 +28,7 @@
 
 [ 2022.11.26 React 기초 ](https://github.com/GosuEE/TIL/blob/master/2022_11/2022_11_26.md)
 
-[ React 팀과제, React 생명주기, Redux ](https://github.com/GosuEE/TIL/blob/master/2022_11/2022_11_30.md)
+[ React 팀과제, React 생명주기 ](https://github.com/GosuEE/TIL/blob/master/2022_11/2022_11_30.md)
 
 ## CSS
 
