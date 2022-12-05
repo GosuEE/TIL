@@ -43,3 +43,5 @@
 [ 2022.11.14~2022.11.20 WIL ](https://github.com/GosuEE/TIL/blob/master/2022_11/2022_11_14~2022_11_20_WIL.md)
 
 [ 2022.11.21~2022.11.27 WIL ](https://github.com/GosuEE/TIL/blob/master/2022_11/2022_11_21~2022_11_27_WIL.md)
+
+ [ 2022.11.28~2022.12.04_WIL ](https://github.com/GosuEE/TIL/blob/master/2022_12/2022_11_28~2022_12_04_WIL.md)
