@@ -36,6 +36,8 @@
 
 [ 2022.12.06 리액트 숙련 주차 팀 과제 ](https://github.com/GosuEE/TIL/blob/master/2022_12/2022_12_06.md)
 
+[ 2022.12.10 ](https://github.com/GosuEE/TIL/blob/master/2022_12/2022_12_10.md)
+
 ## CSS
 
 [ 2022.11.29 CSS 기초 ](https://github.com/GosuEE/TIL/blob/master/2022_11/2022_11_29.md)
