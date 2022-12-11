@@ -36,7 +36,9 @@
 
 [ 2022.12.06 리액트 숙련 주차 팀 과제 ](https://github.com/GosuEE/TIL/blob/master/2022_12/2022_12_06.md)
 
-[ 2022.12.10 ](https://github.com/GosuEE/TIL/blob/master/2022_12/2022_12_10.md)
+[ 2022.12.10 리액트 심화 주차 ](https://github.com/GosuEE/TIL/blob/master/2022_12/2022_12_10.md)
+
+[ 2022.12.11 thunk, react hook ](https://github.com/GosuEE/TIL/blob/master/2022_12/2022_12_10.md)
 
 ## CSS
 
