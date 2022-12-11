@@ -38,7 +38,7 @@
 
 [ 2022.12.10 리액트 심화 주차 ](https://github.com/GosuEE/TIL/blob/master/2022_12/2022_12_10.md)
 
-[ 2022.12.11 thunk, react hook ](https://github.com/GosuEE/TIL/blob/master/2022_12/2022_12_10.md)
+[ 2022.12.11 thunk, react hook ](https://github.com/GosuEE/TIL/blob/master/2022_12/2022_12_11.md)
 
 ## CSS
 
