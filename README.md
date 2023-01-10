@@ -40,6 +40,8 @@
 
 [ 2022.12.11 thunk, react hook ](https://github.com/GosuEE/TIL/blob/master/2022_12/2022_12_11.md)
 
+[ 2023.01.10 React Query ](https://github.com/GosuEE/TIL/blob/master/2023_01/2023_01_10.md)
+
 ## CSS
 
 [ 2022.11.29 CSS 기초 ](https://github.com/GosuEE/TIL/blob/master/2022_11/2022_11_29.md)
