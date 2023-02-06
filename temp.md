@@ -1,18 +1,22 @@
-<div align="center">
-    <h1>눈치 코치 캐치 : TRY'S KETCH !</h1>
-</div>
-
 <style>
+
 td:nth-child(1){
   width: 20%;
 }
+
 td:nth-child(2){
   width: 20%;
 }
+
 td:nth-child(3){
   width: 60%;
 }
+
 </style>
+
+<div align="center">
+    <h1>눈치 코치 캐치 : TRY'S KETCH !</h1>
+</div>
 
 ![눈코캐 배경](https://user-images.githubusercontent.com/116439064/215262105-c40a7151-df8d-4439-bb9f-c35c4739f603.png)
 
