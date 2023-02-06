@@ -80,11 +80,11 @@
 <details>
 <summary>우리는 이렇게 생각하고 결정했습니다 !</summary>
 
-<table>
+<table style="width:100%">
   <tr>
-    <td style="width: 20%">요구 사항</td>
-    <td style="width: 20%">선택지</td>
-    <td style="width: 20%">핵심 기술을 선택한 이유 및 근거</td>
+    <td style="width:20%">요구 사항</td>
+    <td style="width:20%">선택지</td>
+    <td style="width:60%">핵심 기술을 선택한 이유 및 근거</td>
   </tr>
 </table>
 
