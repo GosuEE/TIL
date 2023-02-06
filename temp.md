@@ -2,7 +2,7 @@
     <h1>눈치 코치 캐치 : TRY'S KETCH !</h1>
 </div>
 
-<style type='text/css'>
+<style>
 td:nth-child(1){
   width: 20%;
 }
