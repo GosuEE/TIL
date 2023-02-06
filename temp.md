@@ -1,19 +1,15 @@
 <head>
-	<style>
-
-	td:nth-child(1){
-	  width: 20%;
-	}
-
-	td:nth-child(2){
-	  width: 20%;
-	}
-
-	td:nth-child(3){
-	  width: 60%;
-	}
-
-	</style>
+<style>
+td:nth-child(1){
+  width: 20%;
+}
+td:nth-child(2){
+  width: 20%;
+}
+td:nth-child(3){
+  width: 60%;
+}
+</style>
 </head>
 
 <div align="center">
