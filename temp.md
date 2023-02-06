@@ -1,18 +1,20 @@
-<style>
+<head>
+	<style>
 
-td:nth-child(1){
-  width: 20%;
-}
+	td:nth-child(1){
+	  width: 20%;
+	}
 
-td:nth-child(2){
-  width: 20%;
-}
+	td:nth-child(2){
+	  width: 20%;
+	}
 
-td:nth-child(3){
-  width: 60%;
-}
+	td:nth-child(3){
+	  width: 60%;
+	}
 
-</style>
+	</style>
+</head>
 
 <div align="center">
     <h1>눈치 코치 캐치 : TRY'S KETCH !</h1>
