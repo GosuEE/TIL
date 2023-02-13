@@ -50,6 +50,10 @@
 
 [ 2023.01.02 canvas ](https://github.com/GosuEE/TIL/blob/master/2023_01/2023_01_02.md)
 
+## Mockterview
+
+[ 2023.02.13 목터뷰(기술면접 준비) ]()
+
 ## WIL
 
 [ 2022.11.14~2022.11.20 WIL ](https://github.com/GosuEE/TIL/blob/master/2022_11/2022_11_14~2022_11_20_WIL.md)
