@@ -52,7 +52,7 @@
 
 ## Mockterview
 
-[ 2023.02.13 목터뷰(기술면접 준비) ]()
+[ 2023.02.13 목터뷰(기술면접 준비) ](https://github.com/GosuEE/TIL/blob/master/2023_02/2023_02_13.md)
 
 ## WIL
 
