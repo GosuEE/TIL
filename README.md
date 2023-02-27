@@ -58,6 +58,11 @@
 
 [ 2023.02.15 목터뷰(기술면접 준비)#3 ](https://github.com/GosuEE/TIL/blob/master/2023_02/2023_02_15.md)
 
+## 프로젝트 관련
+ 
+[ 2022.02.28 프로젝트 간단 설명 ](https://github.com/GosuEE/TIL/blob/master/2023_02/2023_02_28.md) 
+
+
 ## WIL
 
 [ 2022.11.14~2022.11.20 WIL ](https://github.com/GosuEE/TIL/blob/master/2022_11/2022_11_14~2022_11_20_WIL.md)
