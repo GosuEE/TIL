@@ -42,6 +42,10 @@
 
 [ 2023.01.10 React Query ](https://github.com/GosuEE/TIL/blob/master/2023_01/2023_01_10.md)
 
+## nodejs
+
+[ 2023.03.14 nodejs 서버 구축하기](https://github.com/GosuEE/TIL/blob/master/2023_03/2023_03_14.md)
+
 ## CSS
 
 [ 2022.11.29 CSS 기초 ](https://github.com/GosuEE/TIL/blob/master/2022_11/2022_11_29.md)
@@ -61,7 +65,6 @@
 ## 프로젝트 관련
  
 [ 2022.02.28 프로젝트 간단 설명 ](https://github.com/GosuEE/TIL/blob/master/2023_02/2023_02_28.md) 
-
 
 ## WIL
 
