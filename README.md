@@ -48,10 +48,9 @@
 
 ## golang
 
-[ 2023.03.15 golang으로 서버를 구축하자 ](https://github.com/GosuEE/TIL/blob/master/2023_03/2023_03_15.md)
+[ 2023.03.15 golang 문법 ](https://github.com/GosuEE/TIL/blob/master/2023_03/2023_03_15.md)
 
-
-[ 2023.03.16 golang으로 서버를 구축하자 #2 ](https://github.com/GosuEE/TIL/blob/master/2023_03/2023_03_16.md)
+[ 2023.03.16 golang 문법 #2 ](https://github.com/GosuEE/TIL/blob/master/2023_03/2023_03_16.md)
 
 ## CSS
 
