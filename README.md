@@ -52,6 +52,8 @@
 
 [ 2023.03.16 golang 문법 #2 ](https://github.com/GosuEE/TIL/blob/master/2023_03/2023_03_16.md)
 
+[ 2023.03.17 golang 문법 #3 ](https://github.com/GosuEE/TIL/blob/master/2023_03/2023_03_17.md)
+
 ## CSS
 
 [ 2022.11.29 CSS 기초 ](https://github.com/GosuEE/TIL/blob/master/2022_11/2022_11_29.md)
