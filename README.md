@@ -54,6 +54,8 @@
 
 [ 2023.03.17 golang 문법 #3 ](https://github.com/GosuEE/TIL/blob/master/2023_03/2023_03_17.md)
 
+[ 2023.03.17 go로 서버를 만들어보자 ](https://github.com/GosuEE/TIL/blob/master/2023_03/2023_03_18.md)
+
 ## CSS
 
 [ 2022.11.29 CSS 기초 ](https://github.com/GosuEE/TIL/blob/master/2022_11/2022_11_29.md)
