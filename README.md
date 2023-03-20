@@ -56,6 +56,8 @@
 
 [ 2023.03.18 go로 서버를 만들어보자 ](https://github.com/GosuEE/TIL/blob/master/2023_03/2023_03_18.md)
 
+[ 2023.03.20 go로 서버를 만들어보자 #2 ](https://github.com/GosuEE/TIL/blob/master/2023_03/2023_03_20.md)
+
 ## CSS
 
 [ 2022.11.29 CSS 기초 ](https://github.com/GosuEE/TIL/blob/master/2022_11/2022_11_29.md)
